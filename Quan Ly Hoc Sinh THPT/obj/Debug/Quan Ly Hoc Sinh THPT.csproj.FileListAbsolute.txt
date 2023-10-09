@@ -1,0 +1,15 @@
+D:\WorkSpace\C#\Quan Ly Hoc Sinh THPT\Quan Ly Hoc Sinh THPT\bin\Debug\Database1.mdf
+D:\WorkSpace\C#\Quan Ly Hoc Sinh THPT\Quan Ly Hoc Sinh THPT\bin\Debug\Database1_log.ldf
+D:\WorkSpace\C#\Quan Ly Hoc Sinh THPT\Quan Ly Hoc Sinh THPT\bin\Debug\Quan Ly Hoc Sinh THPT.exe.config
+D:\WorkSpace\C#\Quan Ly Hoc Sinh THPT\Quan Ly Hoc Sinh THPT\bin\Debug\Quan Ly Hoc Sinh THPT.exe
+D:\WorkSpace\C#\Quan Ly Hoc Sinh THPT\Quan Ly Hoc Sinh THPT\bin\Debug\Quan Ly Hoc Sinh THPT.pdb
+D:\WorkSpace\C#\Quan Ly Hoc Sinh THPT\Quan Ly Hoc Sinh THPT\obj\Debug\Quan Ly Hoc Sinh THPT.csproj.AssemblyReference.cache
+D:\WorkSpace\C#\Quan Ly Hoc Sinh THPT\Quan Ly Hoc Sinh THPT\obj\Debug\Quan_Ly_Hoc_Sinh_THPT.Properties.Resources.resources
+D:\WorkSpace\C#\Quan Ly Hoc Sinh THPT\Quan Ly Hoc Sinh THPT\obj\Debug\Quan Ly Hoc Sinh THPT.csproj.GenerateResource.cache
+D:\WorkSpace\C#\Quan Ly Hoc Sinh THPT\Quan Ly Hoc Sinh THPT\obj\Debug\Quan Ly Hoc Sinh THPT.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C#\Quan Ly Hoc Sinh THPT\Quan Ly Hoc Sinh THPT\obj\Debug\Quan Ly Hoc Sinh THPT.exe
+D:\WorkSpace\C#\Quan Ly Hoc Sinh THPT\Quan Ly Hoc Sinh THPT\obj\Debug\Quan Ly Hoc Sinh THPT.pdb
+D:\WorkSpace\C#\Quan Ly Hoc Sinh THPT\Quan Ly Hoc Sinh THPT\obj\Debug\Quan_Ly_Hoc_Sinh_THPT.dangNhap.resources
+D:\WorkSpace\C#\Quan Ly Hoc Sinh THPT\Quan Ly Hoc Sinh THPT\obj\Debug\Quan_Ly_Hoc_Sinh_THPT.DangKy.resources
+D:\WorkSpace\C#\Quan Ly Hoc Sinh THPT\Quan Ly Hoc Sinh THPT\obj\Debug\Quan_Ly_Hoc_Sinh_THPT.QuenMatKhau.resources
+D:\WorkSpace\C#\Quan Ly Hoc Sinh THPT\Quan Ly Hoc Sinh THPT\obj\Debug\Quan_Ly_Hoc_Sinh_THPT.Form1.resources
